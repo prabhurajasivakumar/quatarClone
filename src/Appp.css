@@ -1,0 +1,143 @@
+#header {
+  transition: all 0.5s;
+  z-index: 997;
+  transition: all 0.5s;
+  
+  background: rgba(255, 255, 255, 0.95);
+}
+
+#header {
+  background: transparent;
+}
+#header.active {
+  background: blue;
+}
+
+#header.header-scrolled {
+  background: rgba(255, 255, 255, 0.95);
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+#first{
+  background-image: url(asserts/quatar.jpg);
+  height: 500px;
+  
+    background-size: cover;
+}
+#link{
+  text-decoration: none;
+  margin-left: 30px;
+}
+#radio{
+  height: 20px;
+  width: 20px;
+}
+#sell{
+  position: relative;
+  top: -50px;
+  box-shadow: 0px 5px 15px 2px rgba(0, 0, 0, 0.1);
+  
+}
+
+.nav-tabs .nav-link {
+  color: #8e2157; /* Default tab color */
+  background-color: #f2f3fa; /* Default tab background color */
+  border-radius: 0%;
+  height: 50px;
+
+}
+
+.nav-tabs .nav-link:hover {
+  color: #8e2157; /* Default tab color */
+  background-color: #f2f3fa; /* Default tab background color */
+  border-radius: 0%;
+}
+#ca1{
+  background-image: url(asserts/quatar2.jpg);
+  background-size: cover;
+  border-radius: 10px;
+}
+.scrolled {
+  background-color: #007bff; /* Change to your desired background color */
+}
+#ca2{
+  background-image: url(asserts/lapq.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  border: 0;
+  
+}
+#ca3{
+  background-image: url(asserts/bech.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  border: 0;
+  
+}
+#ca4{
+  background-image: url(asserts/flight.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  border: 0;
+  
+}
+#ca5{
+  background-image: url(asserts/q1.jpg);
+  background-size: cover;
+  border-radius: 10px;
+  border: 0;
+  
+}
+#stub{
+  position: relative;
+  left: 50px;
+}
+#stub2{
+  position: relative;
+  left: 110px;
+}
+#stub3{
+  position: relative;
+  left: -110px;
+}
+#fairb:hover{
+  background-color: #8e2157;
+  
+}
+#fin{
+  background-image: url(./asserts/email.png);
+  background-size: cover;
+}
+#botn{
+  border: solid #d4af37 2px;
+  position: absolute;
+  top: -10px;
+  margin: 0;
+  padding: 10px;
+  border-radius: 40px;
+  background-color: black;
+}
+#botle{
+position: relative;
+left: -50px;
+top: 0px;
+}
+#botlee{
+  position: relative;
+  left: -70px;
+  top: -2px;
+  }
+#botri{
+  position: relative;
+left:50px;
+top: 0px;
+}
+#botrii{
+  position: relative;
+left:70px;
+top: -2px;
+}
+#fotimg{
+  position: relative;
+  top:-18px;
+}
+
